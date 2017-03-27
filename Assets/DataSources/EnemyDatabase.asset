@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b2e0494e39634d42baf14a185fa91b1, type: 3}
+  m_Name: EnemyDatabase
+  m_EditorClassIdentifier: 
+  elements:
+  - Name: "\u30EF\u30BF\u30EA\u30EA"
+    addPoint: 1
+    Points: 64000000c8000000
+  - Name: "\u30AE\u30AC\u30AF"
+    addPoint: 1
+    Points: 9600000018010000
+  - Name: "\u30BD\u30AC\u30AF"
+    addPoint: 1
+    Points: dc00000054010000
+  - Name: "\u30D5\u30E9\u30D5\u30A3"
+    addPoint: 1
+    Points: f0000000
+  - Name: "\u30C9\u30C3\u30B0\u30A6\u30C3\u30C9"
+    addPoint: 1
+    Points: b4000000b4000000
+  - Name: "\u30A7\u30A2\u30ED\u30A6"
+    addPoint: 1
+    Points: 600e0000
+  - Name: "\u30ED\u30FC\u30BF\u30B9\u30EB\u30FC\u30C8"
+    addPoint: 1
+    Points: 680100004ccc0000
+  - Name: "\u30AD\u30AC\u30AF"
+    addPoint: 1
+    Points: eca30100246b0200
+  - Name: "\u30BF\u30F3\u30AF\uFF08\u5C0F\uFF09"
+    addPoint: 1
+    Points: 08020000
+  - Name: "\u30BF\u30F3\u30AF\uFF08\u5927\uFF09"
+    addPoint: 1
+    Points: 480d0000
+  - Name: "\u30C1\u30E5\u30FC\u30EA\u30C3\u30D7\uFF08\u8868\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 20a10700
+  - Name: "\u30B9\u30B6\u30AF08\uFF08\u88CF\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 80841e00
+  - Name: "\u30A2\u30A4\uFF08\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 40420f00
+  - Name: "\u30EA\u30EA"
+    addPoint: 1
+    Points: ea01000032050000
+  - Name: "\u30B7\u30E5\u30AC\u30AF"
+    addPoint: 1
+    Points: b4000000b4000000
+  - Name: "\u30CF\u30EA\u30CF\u30C3\u30AF"
+    addPoint: 1
+    Points: f00a0000
+  - Name: "\u30BB\u30A4\u30AC\u30AF"
+    addPoint: 1
+    Points: c0120000ec2c0000
+  - Name: "\u30EC\u30A4\u30A6\u30F3"
+    addPoint: 1
+    Points: b0630500
+  - Name: "\u30D1\u30A4\u30F3\uFF08\u8868\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: c0270900
+  - Name: "\u30BB\u30F3\u30B3\u30A6\uFF08\u88CF\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 80841e00
+  - Name: "\u30CD\u30AF\u30B9\u30A3\uFF08\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 400d030080841e00
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
