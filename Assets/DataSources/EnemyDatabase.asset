@@ -129,6 +129,84 @@ MonoBehaviour:
   - Name: "\u3071\u3075\u3047\uFF08\u30DC\u30B9\uFF09"
     addPoint: 0
     Points: e0930400801a0600c0c62d00
+  - Name: "\u30D2\u30AC\u30AF"
+    addPoint: 1
+    Points: 6c070000
+  - Name: "\u30AF\u30ED\u30A5\u30D0\u30FC"
+    addPoint: 1
+    Points: 781e0000
+  - Name: "\u30D4\u30F3\u30AF"
+    addPoint: 1
+    Points: 686f0500
+  - Name: "\u30D3\u30FC\u30CA\u30B9\u30BA\u30D5\u30E9\u30A4\u30C8\u30E9\u30C3\u30D7"
+    addPoint: 1
+    Points: c0cf0600
+  - Name: "\u30A2\u30A4\u30D5\u30A7\u30A4\u30AF\uFF08\u8868\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 00350c00
+  - Name: "\u30E9\u30A4\u30B3\u30A6\uFF08\u88CF\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 80841e00
+  - Name: "\u30EC\u30A4\u30F3\uFF08\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 801a060020a1070000093d00
+  - Name: "\u30AC\u30C8\u30EA\u30F3\u30B0\u30EC\u30FC\u30B6\u30FC"
+    addPoint: 1
+    Points: 50c30000
+  - Name: "\u30AC\u30F3\u30C7\u30C3\u30AD"
+    addPoint: 1
+    Points: d6470000
+  - Name: "\u30D6\u30EB\u30FC\u30DC\u30C8\u30EB"
+    addPoint: 1
+    Points: 302a0000
+  - Name: "\u30CB\u30DA\u30F3\u30B7\u30FC\u30BA"
+    addPoint: 1
+    Points: 28870000d0520000
+  - Name: "\u30B9\u30AF\u30E9\u30F3\u30D6\u30EB\u30B9\u30C6\u30FC\u30B7\u30E7\u30F3"
+    addPoint: 1
+    Points: 12f20000
+  - Name: "\u30AD\u30E3\u30D1\u30B7\u30BF\u30FC\u30E6\u30CB\u30C3\u30C8"
+    addPoint: 1
+    Points: 76020000
+  - Name: "\u30C7\u30FC\u30BF\u30BB\u30F3\u30BF\u30FC"
+    addPoint: 1
+    Points: 5e010000
+  - Name: "\u6B21\u5143\u30BD\u30CA\u30FC"
+    addPoint: 1
+    Points: 7a080000
+  - Name: "\u30EA\u30A2\u30AF\u30BF\u30FC"
+    addPoint: 1
+    Points: d4030000
+  - Name: "\u30B3\u30F3\u30C8\u30ED\u30FC\u30EB\u30D1\u30CD\u30EB"
+    addPoint: 1
+    Points: a8160000
+  - Name: "\u4E94\u9023\u30EC\u30FC\u30B6\u30FC\u7832"
+    addPoint: 1
+    Points: 10270000
+  - Name: "\u3071\u3075\u3047\u2606\u30B7\u30E3\u30C9\u30A6A\uFF08\u8868\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: a0bb0d00
+  - Name: "\u30E9\u30F3\u30B3\u30A6\uFF08\u88CF\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 80841e00
+  - Name: "\u3071\u3075\u3047\u2606\u30B7\u30E3\u30C9\u30A6G\uFF08\u8868\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 40420f00
+  - Name: "\u30EA\u30E5\u30A6\u30B3\u30A6\uFF08\u88CF\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 80841e00
+  - Name: "\u30C9\u30AC\u30AF"
+    addPoint: 0
+    Points: 40420f00
+  - Name: "\u30B7\u30E5\u30FC\u30C6\u30A3\uFF08\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 20a10700c0270900404b4c00
+  - Name: 
+    addPoint: 1
+    Points: 00000000
+  - Name: 
+    addPoint: 1
+    Points: 00000000
   - Name: 
     addPoint: 1
     Points: 00000000
