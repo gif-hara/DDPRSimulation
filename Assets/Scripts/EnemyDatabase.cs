@@ -13,7 +13,7 @@ public class EnemyDatabase : ScriptableObject
     private void OverlapCheck()
     {
         var overlaps = this.elements.GroupBy(e => e.Name)
-            .Where(e => e.Count() > 1)
+            .Where(e => e.Count() > 1 && e.Key != "")
             .Select(e => e.FirstOrDefault()).ToList();
 
         if(overlaps.Count <= 0)
