@@ -201,12 +201,15 @@ MonoBehaviour:
   - Name: "\u30B7\u30E5\u30FC\u30C6\u30A3\uFF08\u30DC\u30B9\uFF09"
     addPoint: 0
     Points: 20a10700c0270900404b4c00
-  - Name: 
-    addPoint: 1
-    Points: 00000000
-  - Name: 
-    addPoint: 1
-    Points: 00000000
-  - Name: 
-    addPoint: 1
-    Points: 00000000
+  - Name: "\u6975\u6EC5\u6975\u622E\u81F3\u9AD8\u5175\u5668\u30B4\u30FC\u30EB\u30C7\u30F3\u30FB\u30C7\u30A3\u30B6\u30B9\u30BF\u30FC"
+    addPoint: 0
+    Points: 808d5b00
+  - Name: "\u30D2\u30D0\u30C1"
+    addPoint: 0
+    Points: 40420f0080969800
+  - Name: "\u30B8\u30B3\u30A6\u30AF\u30A6"
+    addPoint: 0
+    Points: 1e000000
+  - Name: "\u30A8\u30A4\u30B3\u30FC\u30F3"
+    addPoint: 0
+    Points: e8030000
