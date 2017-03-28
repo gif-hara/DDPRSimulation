@@ -75,6 +75,66 @@ MonoBehaviour:
   - Name: "\u30CD\u30AF\u30B9\u30A3\uFF08\u30DC\u30B9\uFF09"
     addPoint: 0
     Points: 400d030080841e00
+  - Name: "\u5BFE\u7A7A\u7832A"
+    addPoint: 1
+    Points: ac0d0000
+  - Name: "\u5BFE\u7A7A\u7832B"
+    addPoint: 1
+    Points: c02b0000
+  - Name: "\u5BFE\u7A7A\u7832C"
+    addPoint: 1
+    Points: 20670000
+  - Name: "\u5BFE\u7A7A\u7832D"
+    addPoint: 1
+    Points: e4020000
+  - Name: "\u526F\u7832"
+    addPoint: 1
+    Points: 20030000
+  - Name: "\u4E3B\u7832"
+    addPoint: 1
+    Points: c8af0000
+  - Name: "\u8239\u6A4B"
+    addPoint: 1
+    Points: 50c30000
+  - Name: "\u822A\u7A7A\u7BA1\u5236\u5854"
+    addPoint: 1
+    Points: b8880000
+  - Name: "\u30E1\u30A4\u30F3\u30B8\u30A7\u30CD\u30EC\u30FC\u30BF\u30FC\uFF081UP\u8981\u585E\uFF09"
+    addPoint: 1
+    Points: 409c0000
+  - Name: "\u30C6\u30F3\u30C8\u30A6"
+    addPoint: 1
+    Points: d6010000
+  - Name: "\u30A8\u30C7\u30D6\u30EB\u30B9\u30C8\u30FC\u30AB\u30FC"
+    addPoint: 1
+    Points: cc100000
+  - Name: "\u30A2\u30B9\u30BF\u30FC"
+    addPoint: 1
+    Points: dc1e0000
+  - Name: "\u30B7\u30E7\u30A6\u30A6\u30F3"
+    addPoint: 1
+    Points: a0030200
+  - Name: "\u99C6\u9010\u8266\u30DE\u30EA\u30FC\u30B4\u30FC\u30EB\u30C9"
+    addPoint: 1
+    Points: 8813000048030000102700003002000090d00300
+  - Name: "\u5DE1\u6D0B\u8266\u30CF\u30A4\u30C9\u30EC\u30A4\u30F3\u30B8\u30A7"
+    addPoint: 1
+    Points: 8a020000d403000088130000e803000030570500
+  - Name: "\u30AF\u30A6\u30E908\uFF08\u8868\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 60ae0a00
+  - Name: "\u30AB\u30B3\u30A6\uFF08\u88CF\u4E2D\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: 80841e00
+  - Name: "\u3071\u3075\u3047\uFF08\u30DC\u30B9\uFF09"
+    addPoint: 0
+    Points: e0930400801a0600c0c62d00
+  - Name: 
+    addPoint: 1
+    Points: 
+  - Name: 
+    addPoint: 1
+    Points: 
   - Name: 
     addPoint: 1
     Points: 
